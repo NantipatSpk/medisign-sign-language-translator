@@ -1,0 +1,12 @@
+<resources>
+
+        <string name="app_name">MediSign</string>
+        <string name="settings">Settings</string>
+        <string name="gesture">Gesture</string>
+        <string name="text">Text</string>
+        <string name="sickness">อาการป่วย</string>
+        <string name="allergy">อาการแพ้</string>
+        <string name="menu">ตัวเลือก</string>
+
+
+</resources>
